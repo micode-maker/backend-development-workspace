@@ -1,3 +1,3 @@
 # Useful Resources
-[GitHub](https://docs.github.com/en)
-[Git](https://git-scm.com/docs)
+- [GitHub](https://docs.github.com/en)
+- [Git](https://git-scm.com/docs)
